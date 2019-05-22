@@ -1,5 +1,5 @@
 # I.T. Asset Management
-An Asset Management demo project for an I.T. Company
+Asset Management demo project for an I.T. Company
 
 Technologies used: 
 Vue.js version 2.6.10 (FrontEnd) and Visual C#/Asp.net version 2013 (BackEnd)  
