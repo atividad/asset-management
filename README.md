@@ -6,7 +6,7 @@ Asset Management demo project for an I.T. Company
    * Back End   - Visual C#/Asp.net version 2013
    * RDBMS      - MS SQL 2016
 
-Git clone from https://github.com/avtividad/asset-management.git
+Git clone from https://github.com/atividad/asset-management.git
 
  
 ## Run the frontend app only ##
