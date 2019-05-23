@@ -6,14 +6,14 @@ Asset Management demo project for an I.T. Company
    * Back End   - Visual C#/Asp.net version 2013
    * RDBMS      - MS SQL 2016
 
-Git clone from https://github.com/atividad/asset-management.git
+Git clone from https://github.com/avtividad/asset-management.git
 
  
 ## Run the frontend app only ##
 
 Go to frontend directory and double-click on “index.html” 
 
-## Sample Data
+### Sample Data
 
 [Rest Api data on the web](https://www.restapii.xyz/api/assets)
 
@@ -27,11 +27,11 @@ Go to frontend directory and double-click on “index.html”
 3. Build and run. 
 4. Go to “frontend” directory and double-click on “index.localhost.html” 
 
-## Sample Data
+### Sample Data
 
 [Rest Api data on localhost](http://localhost:33000/api/assets)
 
-### Minimum requirements: 
+#### Minimum requirements: 
    * Visual Studio 2013 or later
    * MS SQL 2012 or later
 
