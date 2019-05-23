@@ -23,7 +23,7 @@ Go to frontend directory and double-click on “index.html”
 
 1. Go to “backend” directory and open “restapii2.sln”
 2. Modify the “connectionString” in web.config to point to your DB:
-    connectionString="Data Source=localhost;Initial Catalog=restapii2DB;User Id=sa;Password=sa;Integrated Security=True"
+    #### connectionString="Data Source=localhost;Initial Catalog=restapii2DB;User Id=sa;Password=sa;Integrated Security=True"
 3. Build and run. 
 4. Go to “frontend” directory and double-click on “index.localhost.html” 
 
